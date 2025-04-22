@@ -1,0 +1,32 @@
+{
+    "Hero_Traits": [
+        "Avenger",
+        "Aerial",
+        "Spy",
+        "Thief",
+        "Wakanda",
+        "Gamma",
+        "X-Men",
+        "X-Force",
+        "X-Factor",
+        "Web Warrior",
+        "Guardian",
+        "Defender",
+        "Mystic",
+        "Posse",
+        "Psionic",
+        "Soldier",
+        "Champion",
+        "Tiny",
+        "Giant",
+        "Android"
+    ],
+    "Team_Traits": [
+        "Champion",
+        "Avenger",
+        "X-Men",
+        "Web Warrior",
+        "Guardian",
+        "X-Force"
+    ]
+}

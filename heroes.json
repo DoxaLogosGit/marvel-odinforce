@@ -1,0 +1,559 @@
+{
+    "Spider Man": {
+        "traits": [
+            "Avenger",
+            "Genius"
+        ],
+        "replacements": [
+            "spiderman",
+            "spider-man"
+        ]
+    },
+    "Spider Woman": {
+        "traits": [
+            "Avenger",
+            "Shield",
+            "Spy"
+        ],
+        "replacements": [
+            "spiderwoman",
+            "spider-woman"
+        ]
+    },
+    "Spider Ham": {
+        "traits": [
+            "Web Warrior",
+            "Cartoon",
+            "Civilian"
+        ],
+        "replacements": [
+            "spiderham",
+            "spider-ham"
+        ]
+    },
+    "Miles Morales": {
+        "traits": [
+            "Champion",
+            "Web Warrior",
+            "Civilian"
+        ],
+        "replacements": [
+            "miles-morales",
+            "milesmorales"
+        ]
+    },
+    "Ms. Marvel": {
+        "traits": [
+            "Champion",
+            "Inhuman"
+        ],
+        "replacements": [
+            "miss marvel",
+            "ms marvel",
+            "ms. marvel",
+            "msmarvel",
+            "ms.marvel"
+        ]
+    },
+    "Iron Man": {
+        "traits": [
+            "Avenger",
+            "Genius"
+        ],
+        "replacements": [
+            "ironman",
+            "iron-man"
+        ]
+    },
+    "Captain Marvel": {
+        "traits": [
+            "Avenger",
+            "Soldier",
+            "Shield"
+        ],
+        "replacements": [
+            "captainmarvel",
+            "captain-marvel"
+        ]
+    },
+    "She-Hulk": {
+        "traits": [
+            "Attorney",
+            "Avenger",
+            "Gamma"
+        ],
+        "replacements": [
+            "she hulk",
+            "shehulk"
+        ]
+    },
+    "Black Panther": {
+        "traits": [
+            "Avenger",
+            "King",
+            "Wakanda"
+        ],
+        "replacements": [
+            "black-panther",
+            "blackpanther"
+        ]
+    },
+    "Ant Man": {
+        "traits": [
+            "Avenger",
+            "Tiny",
+            "Giant",
+            "Civilian"
+        ],
+        "replacements": [
+            "ant-man",
+            "antman"
+        ]
+    },
+    "Wasp": {
+        "traits": [
+            "Avenger",
+            "Tiny",
+            "Giant",
+            "Genius"
+        ],
+        "replacements": [
+            "waps",
+            "wasps"
+        ]
+    },
+    "Quicksilver": {
+        "traits": [
+            "Avenger",
+            "Civilian"
+        ],
+        "replacements": [
+            "quicksilvers",
+            "quicksliver"
+        ]
+    },
+    "Scarlet Witch": {
+        "traits": [
+            "Avenger",
+            "Mystic"
+        ],
+        "replacements": [
+            "scarlet-witch",
+            "scarletwitch"
+        ]
+    },
+    "Captain America": {
+        "traits": [
+            "Avenger",
+            "Shield",
+            "Soldier"
+        ],
+        "replacements": [
+            "captain-america",
+            "captainamerica"
+        ]
+    },
+    "Doctor Strange": {
+        "traits": [
+            "Avenger",
+            "Mystic"
+        ],
+        "replacements": [
+            "drstrange",
+            "dr strange",
+            "dr. strange",
+            "dr.strange",
+            "doctor-strange",
+            "doctorstrange"
+        ]
+    },
+    "Hulk": {
+        "traits": [
+            "Avenger",
+            "Gamma",
+            "Genius",
+            "Scientist"
+        ],
+        "replacements": [
+            "None"
+        ]
+    },
+    "Thor": {
+        "traits": [
+            "Avenger",
+            "Asgard"
+        ],
+        "replacements": [
+            "None"
+        ]
+    },
+    "Black Widow": {
+        "traits": [
+            "Avenger",
+            "Shield",
+            "Spy"
+        ],
+        "replacements": [
+            "black-widow",
+            "blackwidow"
+        ]
+    },
+    "Hawkeye": {
+        "traits": [
+            "Avenger",
+            "Shield"
+        ],
+        "replacements": [
+            "hawk eye",
+            "hawk-eye"
+        ]
+    },
+    "Rocket Raccoon": {
+        "traits": [
+            "Guardian",
+            "Outlaw",
+            "Genius"
+        ],
+        "replacements": [
+            "rocket-raccoon",
+            "rocket-racoon",
+            "rocket racoon",
+            "rocketraccoon",
+            "rocketracoon"
+        ]
+    },
+    "Groot": {
+        "traits": [
+            "Guardian",
+            "Outlaw"
+        ],
+        "replacements": [
+            "None"
+        ]
+    },
+    "Gamora": {
+        "traits": [
+            "Guardian",
+            "Outlaw"
+        ],
+        "replacements": [
+            "None"
+        ]
+    },
+    "Star Lord": {
+        "traits": [
+            "Guardian",
+            "Outlaw"
+        ],
+        "replacements": [
+            "star-lord",
+            "starlord"
+        ]
+    },
+    "Drax": {
+        "traits": [
+            "Guardian",
+            "Outlaw"
+        ],
+        "replacements": [
+            "None"
+        ]
+    },
+    "Venom": {
+        "traits": [
+            "Guardian",
+            "Space Knight",
+            "Outlaw"
+        ],
+        "replacements": [
+            "None"
+        ]
+    },
+    "Adam Warlock": {
+        "traits": [
+            "Guardian",
+            "Mystic"
+        ],
+        "replacements": [
+            "adam-warlock",
+            "adamwarlock"
+        ]
+    },
+    "Spectrum": {
+        "traits": [
+            "Aerial",
+            "Avenger",
+            "Civilian"
+        ],
+        "replacements": [
+            "None"
+        ]
+    },
+    "Nebula": {
+        "traits": [
+            "Guardian",
+            "Outlaw"
+        ],
+        "replacements": [
+            "None"
+        ]
+    },
+    "War Machine": {
+        "traits": [
+            "Avenger",
+            "Shield",
+            "Soldier"
+        ],
+        "replacements": [
+            "warmachine",
+            "war-machine"
+        ]
+    },
+    "Vision": {
+        "traits": [
+            "Android",
+            "Avenger"
+        ],
+        "replacements": [
+            "None"
+        ]
+    },
+    "Valkyrie": {
+        "traits": [
+            "Avenger",
+            "Asgard"
+        ],
+        "replacements": [
+            "None"
+        ]
+    },
+    "Ghost Spider": {
+        "traits": [
+            "Web Warrior",
+            "Civilian"
+        ],
+        "replacements": [
+            "ghostspider",
+            "spidergwen",
+            "ghost-spider",
+            "spider-gwen"
+        ]
+    },
+    "Iron Heart": {
+        "traits": [
+            "Aerial",
+            "Champion",
+            "Genius"
+        ],
+        "replacements": [
+            "iron-heart",
+            "ironheart"
+        ]
+    },
+    "Nova": {
+        "traits": [
+            "Champion",
+            "Civilian"
+        ],
+        "replacements": [
+            "None"
+        ]
+    },
+    "Wolverine": {
+        "traits": [
+            "X-Men",
+            "Mutant"
+        ],
+        "replacements": [
+            "None"
+        ]
+    },
+    "Rogue": {
+        "traits": [
+            "X-Men",
+            "Mutant"
+        ],
+        "replacements": [
+            "None"
+        ]
+    },
+    "Storm": {
+        "traits": [
+            "X-Men",
+            "Mutant"
+        ],
+        "replacements": [
+            "None"
+        ]
+    },
+    "Gambit": {
+        "traits": [
+            "X-Men",
+            "Mutant",
+            "Thief"
+        ],
+        "replacements": [
+            "None"
+        ]
+    },
+    "Cyclops": {
+        "traits": [
+            "X-Men",
+            "Mutant"
+        ],
+        "replacements": [
+            "None"
+        ]
+    },
+    "Shadowcat": {
+        "traits": [
+            "X-Men",
+            "Mutant"
+        ],
+        "replacements": [
+            "shadow cat",
+            "shadow-cat"
+        ]
+    },
+    "Colossus": {
+        "traits": [
+            "X-Men",
+            "Mutant"
+        ],
+        "replacements": [
+            "None"
+        ]
+    },
+    "Phoenix": {
+        "traits": [
+            "X-Men",
+            "Psionic",
+            "Mutant"
+        ],
+        "replacements": [
+            "pheonix"
+        ]
+    },
+    "Sp//der": {
+        "traits": [
+            "Web Warrior",
+            "Tech"
+        ],
+        "replacements": [
+            "sp./der"
+        ]
+    },
+    "Cable": {
+        "traits": [
+            "X-Force",
+            "Soldier",
+            "Mutant"
+        ],
+        "replacements": [
+            "None"
+        ]
+    },
+    "Domino": {
+        "traits": [
+            "X-Force",
+            "Posse",
+            "Mutant"
+        ],
+        "replacements": [
+            "dominio",
+            "dominoe"
+        ]
+    },
+    "Psylocke": {
+        "traits": [
+            "X-Force",
+            "Psionic"
+        ],
+        "replacements": [
+            "psylock",
+            "psilocke",
+            "psilock"
+        ]
+    },
+    "Angel": {
+        "traits": [
+            "X-Force",
+            "Mutant",
+            "Aerial"
+        ],
+        "replacements": [
+            "agnel",
+            "angle"
+        ]
+    },
+    "X-23": {
+        "traits": [
+            "X-Force",
+            "Mutant"
+        ],
+        "replacements": [
+            "x23",
+            "x 23"
+        ]
+    },
+    "Bishop": {
+        "traits": [
+            "X-Men",
+            "Mutant",
+            "Temporal"
+        ],
+        "replacements": [
+            "biship"
+        ]
+    },
+    "Magik": {
+        "traits": [
+            "X-Men",
+            "Mutant",
+            "Mystic"
+        ],
+        "replacements": [
+            "majik"
+        ]
+    },
+    "Iceman": {
+        "traits": [
+            "X-Men",
+            "Mutant",
+            "Ice"
+        ],
+        "replacements": [
+            "ice-man",
+            "ice man"
+        ]
+    },
+    "Jubilee": {
+        "traits": [
+            "X-Men",
+            "Mutant"
+        ],
+        "replacements": [
+            "jublee",
+            "jubliee"
+        ]
+    },
+    "Nightcrawler": {
+        "traits": [
+            "X-Men",
+            "Mutant"
+        ],
+        "replacements": [
+            "night crawler",
+            "night-crawler"
+        ]
+    },
+    "Magneto": {
+        "traits": [
+            "X-Men",
+            "Mutant"
+        ],
+        "replacements": [
+            "magento"
+        ]
+    }
+}

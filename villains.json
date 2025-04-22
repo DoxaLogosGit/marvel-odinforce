@@ -1,0 +1,508 @@
+{
+    "Ronan": {
+        "traits": [
+            "Accuser Corps",
+            "Kree"
+        ],
+        "replacements": [
+            "ronin"
+        ],
+        "expansion": "The Galaxy's Most Wanted"
+    },
+    "Ultron": {
+        "expansion": "Core Set",
+        "traits": [
+            "Android"
+        ],
+        "replacements": [
+            "None"
+        ]
+    },
+    "Klaw": {
+        "replacements": [
+            "None"
+        ],
+        "traits": [
+            "Masters of Evil"
+        ],
+        "expansion": "Core Set"
+    },
+    "Rhino": {
+        "replacements": [
+            "None"
+        ],
+        "traits": [
+            "Brute",
+            "Criminal"
+        ],
+        "expansion": "Core Set"
+    },
+    "Venom Goblin": {
+        "traits": [
+            "Goblin",
+            "Symbiote"
+        ],
+        "replacements": [
+            "venom-goblin",
+            "venomgoblin",
+            "vengoblin"
+        ],
+        "expansion": "Sinister Motives"
+    },
+    "Absorbing Man": {
+        "traits": [
+            "Brute"
+        ],
+        "replacements": [
+            "absorbing-man",
+            "absorbingman",
+            "absorbing"
+        ],
+        "expansion": "The Rise of Red Skull"
+    },
+    "Taskmaster": {
+        "replacements": [
+            "None"
+        ],
+        "traits": [
+            "Hydra",
+            "Mercenary"
+        ],
+        "expansion": "The Rise of Red Skull"
+    },
+    "Amin Zola": {
+        "replacements": [
+            "amin-zola",
+            "aminzola",
+            "zola"
+        ],
+        "traits": [
+            "Hydra",
+            "Android"
+        ],
+        "expansion": "The Rise of Red Skull"
+    },
+    "Tower Defense": {
+        "traits": [
+            "Black Order"
+        ],
+        "replacements": [
+            "tower-defense",
+            "towerdefense",
+            "proxima",
+            "corvious"
+        ],
+        "expansion": "Mad Titan's Shadow"
+    },
+    "Wrecking Crew": {
+        "traits": [
+            "Wrecking Crew"
+        ],
+        "replacements": [
+            "wrecking-crew",
+            "wreckingcrew"
+        ],
+        "expansion": "Wrecking Crew"
+    },
+    "Green Goblin - Risky Business": {
+        "traits": [
+            "Genius",
+            "Businessman",
+            "Goblin"
+        ],
+        "replacements": [
+            "risky business",
+            "risky-business",
+            "riskybusiness"
+        ],
+        "expansion": "Green Goblin"
+    },
+    "Green Goblin - Mutagen Formula": {
+        "traits": [
+            "Goblin"
+        ],
+        "replacements": [
+            "green goblin",
+            "mutagen formula",
+            "mutagenformula",
+            "mutagen-formula"
+        ],
+        "expansion": "Green Goblin"
+    },
+    "Crossbones": {
+        "traits": [
+            "Hydra",
+            "Mercenary"
+        ],
+        "replacements": [
+            "None"
+        ],
+        "expansion": "The Rise of Red Skull"
+    },
+    "Kang": {
+        "replacements": [
+            "None"
+        ],
+        "traits": [
+            "Temporal"
+        ],
+        "expansion": "Once and Future Kang"
+    },
+    "Red Skull": {
+        "traits": [
+            "Hydra"
+        ],
+        "replacements": [
+            "red-skull",
+            "redskull"
+        ],
+        "expansion": "The Rise of Red Skull"
+    },
+    "Drang": {
+        "traits": [
+            "Badoon"
+        ],
+        "replacements": [
+            "brotherhood of badoon",
+            "brotherhood-of-badoon",
+            "brotherhoodofbadoon"
+        ],
+        "expansion": "The Galaxy's Most Wanted"
+    },
+    "Nebula Villain": {
+        "traits": [
+            "Criminal"
+        ],
+        "replacements": [
+            "nebula",
+            "nebulavillain",
+            "nebula-villain"
+        ],
+        "expansion": "The Galaxy's Most Wanted"
+    },
+    "Ebony Maw": {
+        "traits": [
+            "Black Order",
+            "Mystic"
+        ],
+        "replacements": [
+            "ebony-maw",
+            "ebonymaw"
+        ],
+        "expansion": "Mad Titan's Shadow"
+    },
+    "Thanos": {
+        "traits": [
+            "Black Order",
+            "Titan"
+        ],
+        "replacements": [
+            "None"
+        ],
+        "expansion": "Mad Titan's Shadow"
+    },
+    "Loki": {
+        "replacements": [
+            "None"
+        ],
+        "traits": [
+            "Mystic",
+            "Asgard"
+        ],
+        "expansion": "Mad Titan's Shadow"
+    },
+    "Venom Villain": {
+        "traits": [
+            "Symbiote"
+        ],
+        "replacements": [
+            "venomvillain"
+        ],
+        "expansion": "Sinister Motives"
+    },
+    "Sandman": {
+        "traits": [
+            "Criminal"
+        ],
+        "replacements": [
+            "None"
+        ],
+        "expansion": "Sinister Motives"
+    },
+    "Mysterio": {
+        "traits": [
+            "Criminal"
+        ],
+        "replacements": [
+            "None"
+        ],
+        "expansion": "Sinister Motives"
+    },
+    "Sinister Six": {
+        "traits": [
+            "Criminal"
+        ],
+        "replacements": [
+            "sinister-six",
+            "sinistersix"
+        ],
+        "expansion": "Sinister Motives"
+    },
+    "Hela": {
+        "replacements": [
+            "None"
+        ],
+        "traits": [
+            "Mystic",
+            "Asgard"
+        ],
+        "expansion": "Mad Titan's Shadow"
+    },
+    "Magneto Villain": {
+        "traits": [
+            "Brotherhood of Mutants"
+        ],
+        "replacements": [
+            "magento villain"
+        ],
+        "expansion": "Mutant Genesis"
+    },
+    "Sabretooth": {
+        "traits": [
+            "Brotherhood of Mutants"
+        ],
+        "replacements": [
+            "sabertooth",
+            "saber tooth",
+            "sabre tooth"
+        ],
+        "expansion": "Mutant Genesis"
+    },
+    "Master Mold": {
+        "traits": [
+            "Sentinel"
+        ],
+        "replacements": [
+            "master-mold",
+            "mastermold"
+        ],
+        "expansion": "Mutant Genesis"
+    },
+    "Mansion Attack": {
+        "traits": [
+            "Brotherhood of Mutants"
+        ],
+        "replacements": [
+            "mansion-attack",
+            "mansionattack"
+        ],
+        "expansion": "Mutant Genesis"
+    },
+    "Project Wideawake": {
+        "traits": [
+            "Sentinel"
+        ],
+        "replacements": [
+            "project-wideawake",
+            "projectwideawake",
+            "projectwide-awake",
+            "project wide-awake",
+            "project wide awake"
+        ],
+        "expansion": "Mutant Genesis"
+    },
+    "The Collector - Infiltrate the Museum": {
+        "expansion": "The Galaxy's Most Wanted",
+        "traits": [
+            "Elder"
+        ],
+        "replacements": [
+            "infiltrate the museum",
+            "infiltrate-the-museum",
+            "infiltratethemuseum",
+            "infiltrate",
+            "collector 1"
+        ]
+    },
+    "The Collector - Escape the Museum": {
+        "expansion": "The Galaxy's Most Wanted",
+        "traits": [
+            "Elder"
+        ],
+        "replacements": [
+            "escape the museum",
+            "escape",
+            "escape-the-museum",
+            "escapethemuseum",
+            "collector 2"
+        ]
+    },
+    "Magog": {
+        "traits": [
+            "Brute"
+        ],
+        "expansion": "MojoMania",
+        "replacements": [
+            "None"
+        ]
+    },
+    "Mojo": {
+        "traits": [
+            "Spineless"
+        ],
+        "expansion": "MojoMania",
+        "replacements": [
+            "None"
+        ]
+    },
+    "Spiral": {
+        "traits": [
+            "Escaped",
+            "Cornered",
+            "Mystic"
+        ],
+        "expansion": "MojoMania",
+        "replacements": [
+            "None"
+        ]
+    },
+    "Morlock Siege": {
+        "traits": [
+            "Brute",
+            "Marauder",
+            "Psionic",
+            "Mercenary",
+            "Assassin",
+            "Mutate"
+        ],
+        "expansion": "Next Evolution",
+        "replacements": [
+            "morlocksiege",
+            "morlockseige",
+            "morlock seige"
+        ]
+    },
+    "On the Run": {
+        "traits": [
+            "Brute",
+            "Marauder",
+            "Psionic",
+            "Mercenary",
+            "Assassin",
+            "Mutate"
+        ],
+        "expansion": "Next Evolution",
+        "replacements": [
+            "ontherun"
+        ]
+    },
+    "Juggernaut": {
+        "traits": [
+            "Brute"
+        ],
+        "expansion": "Next Evolution",
+        "replacements": [
+            "jugernaut",
+            "juggernuat",
+            "juggernut"
+        ]
+    },
+    "Mister Sinister": {
+        "expansion": "Next Evolution",
+        "traits": [
+            "Genius"
+        ],
+        "replacements": [
+            "mistersinister",
+            "mister sinster",
+            "mr. sinister",
+            "mr sinister"
+        ]
+    },
+    "Stryfe": {
+        "traits": [
+            "Psionic",
+            "Mutant Liberation Front"
+        ],
+        "expansion": "Next Evolution",
+        "replacements": [
+            "strife"
+        ]
+    },
+    "Unus": {
+        "traits": [
+            "Prelate"
+        ],
+        "expansion": "Age of Apocalypse",
+        "replacements": [
+            "onus",
+            "unos"
+        ]
+    },
+    "Four Horsemen": {
+        "expansion": "Age of Apocalypse",
+        "traits": [
+            "Horsemen"
+        ],
+        "replacements": [
+            "four horseman",
+            "four-horseman",
+            "four-horsemen",
+            "for horsemen",
+            "for horseman",
+            "fore horsemen",
+            "fore horseman"
+        ]
+    },
+    "Apocalypse": {
+        "expansion": "Age of Apocalypse",
+        "traits": [
+            "Mutant"
+        ],
+        "replacements": [
+            "apocolypse",
+            "apocalips",
+            "apocolips",
+            "apocolisp",
+            "apocalipse"
+        ]
+    },
+    "Dark Beast": {
+        "traits": [
+            "Brute",
+            "Genius"
+        ],
+        "expansion": "Age of Apocalypse",
+        "replacements": [
+            "dark-beast",
+            "dark best",
+            "dark-best"
+        ]
+    },
+    "En Sabah Nur": {
+        "expansion": "Age of Apocalypse",
+        "traits": [
+            "Mutant",
+            "Biomorph",
+            "Cyberpath",
+            "Giant"
+        ],
+        "replacements": [
+            "in sabah nur",
+            "n sabah nur",
+            "en saba nur",
+            "n saba nur",
+            "in saba nur"
+        ]
+    },
+    "The Hood Villain": {
+        "traits": [
+            "Criminal"
+        ],
+        "replacements": [
+            "hood villain",
+            "the hood"
+        ],
+        "expansion": "The Hood"
+    }
+}
